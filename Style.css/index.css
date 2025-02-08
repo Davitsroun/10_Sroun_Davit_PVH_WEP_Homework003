@@ -604,10 +604,15 @@ footer{
 }
 .vit{
     background-color: #d5e9ef;
-   right: 10px;
-    font-size: 40px;
+    right: 15px;
+    font-size: 30px;
     padding: 20px;
     border-radius: 50%;
     position:fixed;
     bottom: 10px;
+    width: 20px;
+    transition: 0.5s;
+}
+.vit:hover{
+    background-color: #d5e9ef
 }

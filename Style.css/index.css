@@ -602,3 +602,12 @@ footer{
 .last-text{
     place-self: center;
 }
+.vit{
+    background-color: #d5e9ef;
+   right: 10px;
+    font-size: 40px;
+    padding: 20px;
+    border-radius: 50%;
+    position:fixed;
+    bottom: 10px;
+}

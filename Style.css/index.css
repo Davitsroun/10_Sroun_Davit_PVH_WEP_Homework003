@@ -139,20 +139,25 @@ a:hover{
     max-width: 500px;
     top: 50px;   
 }
-
+ 
 .text2{
     margin-top: 150px;
     font-size:20px ;
     line-height: 40px;
 }
 .explore-btn {
-    background-color: #008cba;
-    color: white;
+    background-color: #e3edf0;
+    color: rgb(89, 165, 197);
     padding: 10px 20px;
     border: none;
     border-radius: 20px;
     cursor: pointer;
     margin-top: 10px;
+    transition: 0.5s;
+}
+.explore-btn:hover{
+    color: #e8eced;
+    background-color: #5697bc;
 }
 .icon-play{
   
